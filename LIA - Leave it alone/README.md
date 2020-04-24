@@ -3,5 +3,7 @@ A Project realised by Leonard Guyot and Bastien Claesens.
 
 More info here: [Website Smartphone Companions](https://www.smartphone-companions.design)
 
+![Render](SPC_LIA_render.png)
 
-![](Images/lia-ECAL.jpg)
+
+![Reference image](Images/lia-ECAL.jpg)
